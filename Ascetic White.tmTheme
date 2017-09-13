@@ -1,14 +1,13 @@
-<!--
-======================================================================
-Blusted
-======================================================================
-A Sublime Text 2 / Textmate theme.
-Copyright (c) 2012 Mendor.
-Released under the MIT License <http://opensource.org/licenses/MIT>
-----------------------------------------------------------------------
--->
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+======================================================================
+Ascetic
+======================================================================
+A Sublime Text 3 theme.
+Copyright (c) 2017 Toxinu.
+Released under the MIT License <http://opensource.org/licenses/MIT>
+-->
 <plist version="1.0">
 <dict>
   <key>name</key>
